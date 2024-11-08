@@ -81,6 +81,7 @@ h1 {
 .gaming h2,
 .audio h2 {
   font-size: 130%;
+  font-weight: 500;
   display: inline-block;
   margin-right: 1%;
 }
