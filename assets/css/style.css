@@ -52,7 +52,7 @@ main {
 .holidayBackground {
   text-align: center;
   margin-top: 1.6em;
-  background-image: url(/assets/images/bg-image.png);
+  background-image: url(/assets/images/bg-image.png);  /* immagine con piccolissima ripetizione sotto proprio come nel mockup, spero esca bene sul suo monitor*/
   background-size: 100%;
   color: #eaeded;
   font-weight: bold;
